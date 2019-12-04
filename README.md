@@ -20,7 +20,7 @@ sylList.pop(0) #Encoding error right now
 print("Syllables loaded!",sylList)
 ```
 
-### allPossibleSymbols.txt
+### `allPossibleSymbols.txt`
 
 This text file has all the syllables within the conlang. If you download this, feel free to change them to suit your needs. As I mentioned previously: 
 
